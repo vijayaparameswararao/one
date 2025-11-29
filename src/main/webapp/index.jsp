@@ -827,6 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Winter collection 2025 -version 1</h1>
+            <p>!!!Christamas offers live on!!! Hurry up</p>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
